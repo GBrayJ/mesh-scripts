@@ -11,3 +11,4 @@ taskkill /F /IM "LEGO Education SPIKE Legacy App.exe" /T
 taskkill /F /IM Minecraft.Windows.exe /T
 taskkill /F /IM CapCut.exe /T
 taskkill /F /IM obs64.exe /T
+taskkill /F /IM blender.exe /T
